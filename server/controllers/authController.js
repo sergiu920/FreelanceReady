@@ -1,4 +1,4 @@
-import { createUser, findUserByEmail } from "../models/User";
+import { createUser, findUserByEmail } from "../models/User.js";
 
 export async function register(req, res, body) {
 

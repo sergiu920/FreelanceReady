@@ -9,5 +9,5 @@
   "keywords": [],
   "author": "Serghei Muntean",
   "license": "ISC",
-  "type": "commonjs"
+  "type": "module"
 }
